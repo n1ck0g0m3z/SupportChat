@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_message">Message</string>
+    <string name="title_activity_emergency">Emergency</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_messeger">Messeger</string>
+    <string name="title_activity_splash">Splash</string>
+    <string name="title_activity_setting">setting</string>
+    <string name="title_activity_address_list">AddressList</string>
+    <string name="title_activity_config">ConfigActivity</string>
+    <string name="title_activity_prefarence">Prefarence</string>
+    <string name="app_name">ComSuppo</string>
+    <string name="Room">chat</string>
+    <string name="renraku">緊急連絡</string>
+</resources>
